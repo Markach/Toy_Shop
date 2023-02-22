@@ -1,0 +1,10 @@
+Toy Doll with id 3 is selected.
+Toy Car with id 6 is selected.
+Toy Doll with id 3 is selected.
+Toy Teddy Bear with id 1 is selected.
+Toy Plane with id 4 is selected.
+Toy Ducky with id 7 is selected.
+Toy Train with id 5 is selected.
+Toy Lego Set with id 2 is selected.
+Toy Train with id 5 is selected.
+Toy Lego Set with id 2 is selected.
